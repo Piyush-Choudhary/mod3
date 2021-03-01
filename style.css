@@ -1,0 +1,100 @@
+body{
+  
+    
+    font-family: "Sniglet", sans-serif;
+}
+#navbar-header{
+    background-color: grey;
+    border: 2px solid black;
+   
+}
+#navbar-header a{
+    color: black;
+    ;
+   
+}
+/* .navbar-brand:hover {
+    color: black;
+    background-color: transparent;
+} */
+#brand a{
+    color: black;
+}
+.navbar-toggler{
+    color: black;
+    border: 5px solid black;
+    padding: 10px;
+    width: 50px;
+}
+.col-md-12 col, .col-sm-12 ,.col-xs-12{
+    background-color: grey;
+    margin: 20px; 
+    padding: 10px;
+    border: 0px;
+    max-width: 97%;
+    
+}
+ /* .col-sm-9 ,.col-xs-9{
+    background-color: grey;
+    margin: 20px; 
+    padding: 10px;
+    border: 0px;
+    max-width: 90% ;
+    
+} */
+.navbar-toggler-icon{
+    color: black;
+}
+#header-nav{
+    width: auto;
+    background-color: grey;
+    border: 1px solid black;
+
+}
+#button{
+    width: 15px;
+    height: 10px;
+}
+#header-nav p{
+margin: 0px;
+padding: 20px;
+text-align: left;
+font-size: 2em;
+font-weight: bolder;
+}
+#navbar-toggler{
+
+border:1px solid black ;
+}
+#box1,#box2,#box3{
+    margin: 10px;
+    padding: 20pxS;
+    max-width: 50%;
+}
+#menu1,#menu2,#menu3{
+padding: 0px;
+text-align: center;
+}
+#contentone,#contenttwo,#contentthree{
+
+text-align: left;
+padding: 10px;
+}
+#nav-list { 
+    background: white; 
+    max-width: 100%;
+}
+#nav-list a{
+color: black;
+text-align: center;
+}
+#nav-list a span{
+        font-size: 1.8em;
+}
+
+.nabar{
+    padding: 0px;
+}
+#myNavbar a{
+    border: 1px solid black;
+}
